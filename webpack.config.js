@@ -7,7 +7,7 @@ module.exports = {
   devtool: 'eval-source-map',
   output: {
     filename: 'bundle-[contenthash:6].js',
-    publicPath: '/',
+    publicPath: '/reseni-quotes/',
     clean: true,
   },
   devServer: {
